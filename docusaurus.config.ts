@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://sobiamehak.github.io',
+  url: 'https://hamzarafique345.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/humanoid-robotic-book/',
+  baseUrl: '/humanoid-robotic-book-chatbot/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'sobiamehak', // Usually your GitHub org/user name.
-  projectName: 'humanoid-robotic-book', // Usually your repo name.
+  organizationName: 'hamzarafique345', // Usually your GitHub org/user name.
+  projectName: 'humanoid-robotic-book-chatbot', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -47,7 +47,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sobiamehak/humanoid-robotic-book/edit/main/',
+            'https://github.com/hamzarafique345/humanoid-robotic-book-chatbot/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -58,7 +58,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sobiamehak/humanoid-robotic-book/edit/main/',
+            'https://github.com/hamzarafique345/humanoid-robotic-book-chatbot/edit/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -93,7 +93,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/sobiamehak/humanoid-robotic-book',
+          href: 'https://github.com/hamzarafique345/humanoid-robotic-book-chatbot',
           position: 'right',
           className: 'navbar-github-link',
           'aria-label': 'GitHub repository',
@@ -142,7 +142,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/sobiamehak/humanoid-robotic-book',
+              href: 'https://github.com/hamzarafique345/humanoid-robotic-book-chatbot',
             },
           ],
         },
