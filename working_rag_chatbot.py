@@ -26,7 +26,7 @@ app = FastAPI(title="Physical AI Humanoid Robotics RAG Chatbot", version="1.0.0"
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*","http://localhost:3000"
-                   ,"https://sobiamehak.github.io/humanoid-robotic-book/"],  # In production, replace with specific frontend URL
+                   ,"https://hamzarafique345.github.io/humanoid-robotic-book-chatbot/"],  # In production, replace with specific frontend URL
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
